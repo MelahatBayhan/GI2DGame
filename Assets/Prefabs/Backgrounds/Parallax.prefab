@@ -390,7 +390,7 @@ Transform:
   m_GameObject: {fileID: 4001060785596371040}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 3, z: 0}
+  m_LocalPosition: {x: 0, y: 4.4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -445,7 +445,7 @@ SpriteRenderer:
   m_SortingLayer: -1
   m_SortingOrder: -200
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 21300000, guid: e3be665254d204ba2a70a2a1d7696dcc, type: 3}
+  m_Sprite: {fileID: -3254779602812191047, guid: 5142a7c86bbddef44bf387bb61eb066b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -529,7 +529,7 @@ Transform:
   m_GameObject: {fileID: 4001060785963116823}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -15, z: 0}
+  m_LocalPosition: {x: 0.5, y: 16.4, z: 0}
   m_LocalScale: {x: 2, y: 2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -580,11 +580,11 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: -1610853557
-  m_SortingLayer: 2
-  m_SortingOrder: 1000
+  m_SortingLayerID: -1275442547
+  m_SortingLayer: -1
+  m_SortingOrder: -400
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 21300000, guid: e679e75d040a34598bf605f462ea8703, type: 3}
+  m_Sprite: {fileID: 2340564595809866820, guid: 7c41d8c9ca3361c479e55dcc7bcaa33b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -711,7 +711,7 @@ Transform:
   m_GameObject: {fileID: 4001060786266031265}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -0.1, y: -2.3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -766,7 +766,7 @@ SpriteRenderer:
   m_SortingLayer: -1
   m_SortingOrder: -100
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 21300000, guid: e679e75d040a34598bf605f462ea8703, type: 3}
+  m_Sprite: {fileID: -3254779602812191047, guid: 5142a7c86bbddef44bf387bb61eb066b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
