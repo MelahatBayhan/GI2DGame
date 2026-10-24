@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: f7827511e57b5d2419c2a14ee0b368b3
+guid: db014b3e6a80bae46b8a26943c390692
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 196352420908073491
-    second: tileset copy_0
+      213: -411247496793613231
+    second: background tileset_0
   - first:
-      213: 7043462081913043740
-    second: tileset copy_1
+      213: -2943588301593818527
+    second: background tileset_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -40,7 +40,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,10 +51,10 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -116,7 +116,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tileset copy_0
+      name: background tileset_0
       rect:
         serializedVersion: 2
         x: 0
@@ -131,14 +131,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 312830b8c7599b200800000000000000
-      internalID: 196352420908073491
+      spriteID: 15c19de9494fa4af0800000000000000
+      internalID: -411247496793613231
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tileset copy_1
+      name: background tileset_1
       rect:
         serializedVersion: 2
         x: 0
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c1b3c5512776fb160800000000000000
-      internalID: 7043462081913043740
+      spriteID: 16a418619064627d0800000000000000
+      internalID: -2943588301593818527
       vertices: []
       indices: 
       edges: []
@@ -173,8 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      tileset copy_0: 196352420908073491
-      tileset copy_1: 7043462081913043740
+      background tileset_0: -411247496793613231
+      background tileset_1: -2943588301593818527
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
